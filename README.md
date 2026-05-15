@@ -15,7 +15,7 @@
 
 ## Sobre
 
-Quase 5 anos construindo pipelines, arquitetando Data Lakes e entregando soluções end-to-end em produção. Trabalho do servidor ao dashboard — infra Linux, Azure, AWS, Airflow, modelagem dimensional, APIs REST e Power BI. Do contrato com o fornecedor até o dado na mão do gestor.
+5 anos com dados — construindo pipelines, arquitetando Data Lakes e entregando soluções end-to-end em produção, do servidor ao dashboard.
 
 Especializando em **Big Data pela Poli-USP**. Estudando **Databricks, dbt, Kafka e Snowflake**.
 
@@ -23,43 +23,45 @@ Especializando em **Big Data pela Poli-USP**. Estudando **Databricks, dbt, Kafka
 
 ## Stack
 
-| | |
-|---|---|
-| **Linguagens** | Python · SQL · Node.js · Shell |
-| **Pipelines** | Apache Airflow · Spark · ETL/ELT · Pandas · Polars |
-| **Cloud & Infra** | Azure · AWS · Docker · Linux · CI/CD · GitHub Actions |
-| **Storage** | PostgreSQL · SQL Server · Delta Lake · Modelagem Dimensional |
-| **BI** | Power BI · DAX · RLS · Streamlit · MLflow |
-| **Aprendendo** | `Databricks` `dbt` `Apache Kafka` `Snowflake` |
+**Linguagens**  
+![Python](https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-1a1a1a?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-1a1a1a?style=for-the-badge&logo=gnubash&logoColor=white)
 
----
+**Pipelines & Big Data**  
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-1a1a1a?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-1a1a1a?style=for-the-badge&logo=apachespark&logoColor=white)
+![ETL/ELT](https://img.shields.io/badge/ETL%2FELT-1a1a1a?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-1a1a1a?style=for-the-badge&logo=pandas&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-1a1a1a?style=for-the-badge&logo=polars&logoColor=white)
 
-## Stats
+**Cloud & Infra**  
+![Azure](https://img.shields.io/badge/Azure-1a1a1a?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-1a1a1a?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-1a1a1a?style=for-the-badge&logo=linux&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-1a1a1a?style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1a1a1a?style=for-the-badge&logo=githubactions&logoColor=white)
 
-<div align="center">
+**Storage & Modelagem**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a1a?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-1a1a1a?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-1a1a1a?style=for-the-badge&logo=databricks&logoColor=white)
+![Modelagem Dimensional](https://img.shields.io/badge/Modelagem_Dimensional-1a1a1a?style=for-the-badge)
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=RayRank&show_icons=true&hide_border=true&bg_color=111111&title_color=e0e0e0&icon_color=666666&text_color=888888&count_private=true&include_all_commits=true" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayRank&layout=compact&hide_border=true&bg_color=111111&title_color=e0e0e0&text_color=888888&langs_count=6" />
+**BI & Analytics**  
+![Power BI](https://img.shields.io/badge/Power_BI-1a1a1a?style=for-the-badge&logo=powerbi&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-1a1a1a?style=for-the-badge)
+![RLS](https://img.shields.io/badge/RLS-1a1a1a?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-1a1a1a?style=for-the-badge&logo=streamlit&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-1a1a1a?style=for-the-badge&logo=mlflow&logoColor=white)
 
-</div>
-
-<div align="center">
-
-![Streak](https://streak-stats.demolab.com?user=RayRank&theme=dark&hide_border=true&background=111111&ring=666666&fire=aaaaaa&currStreakLabel=e0e0e0&sideLabels=888888&dates=555555&currStreakNum=e0e0e0&sideNums=cccccc)
-
-</div>
-
----
-
-## Projetos
-
-| Repositório | Stack | Área |
-|---|---|---|
-| [big-data-retail-pipeline](https://github.com/RayRank/big-data-retail-pipeline) | PySpark · Databricks · Delta Lake | Big Data · Volume massivo |
-| [data-governance-lgpd-pipeline](https://github.com/RayRank/data-governance-lgpd-pipeline) | PostgreSQL · dbt · Python | Governança · LGPD · Lineage |
-| [fraud-detection-pipeline](https://github.com/RayRank/fraud-detection-pipeline) | PySpark · MLflow · Streamlit | Fraude · ML · Séries temporais |
-| [realtime-streaming-kafka](https://github.com/RayRank/realtime-streaming-kafka) | Kafka · PySpark · Docker | Streaming · Near real-time |
-| [analytics-engineering-dbt](https://github.com/RayRank/analytics-engineering-dbt) | dbt · PostgreSQL · GitHub Actions | Analytics Engineering |
+**Aprendendo**  
+![Databricks](https://img.shields.io/badge/Databricks-1a1a1a?style=for-the-badge&logo=databricks&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-1a1a1a?style=for-the-badge&logo=dbt&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-1a1a1a?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-1a1a1a?style=for-the-badge&logo=snowflake&logoColor=white)
 
 ---
 
